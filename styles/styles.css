@@ -1,0 +1,27 @@
+.header-div{
+    width: 1200px;
+    margin:50px auto;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-div{
+    width:70px;
+    height: 40px;
+}
+.nav-div{
+    width: 500px;
+    height: 40px;
+}
+.ul{
+    width: 500px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.li-text{
+    color:#3D37F1;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
