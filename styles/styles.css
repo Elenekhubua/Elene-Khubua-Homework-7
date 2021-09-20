@@ -6,7 +6,11 @@
     align-items: center;
 }
 .logo-div{
-    width:70px;
+    width:120px;
+    height: 40px;
+}
+.logo{
+    width:120px;
     height: 40px;
 }
 .nav-div{
@@ -22,7 +26,7 @@
 }
 .li-text{
     color:#3D37F1;
-    font-size: 20px;
+    font-size: 17px;
     font-family: 'Lato', sans-serif;
 }
 
